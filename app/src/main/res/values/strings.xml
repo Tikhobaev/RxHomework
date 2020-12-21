@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandlerThread</string>
+    <string name="todo">TODO</string>
+    <string name="imageViewText" />
+    <string name="stopButton">Stop</string>
+    <string name="startButton">Start</string>
+</resources>
